@@ -1,0 +1,19 @@
+nouns:
+
+Jupiter,
+Pluto,
+Saturn,
+Earth,
+Neptun,
+Uranus,
+Mars,
+Venus,
+Mercury
+
+adjectives:
+
+gay,
+large,
+fat,
+far away,
+your mom
