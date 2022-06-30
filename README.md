@@ -2,7 +2,7 @@
 
 ## About
 
-simple message generator
+simple message generator for Codeacademy
 
 ## Usage
 
