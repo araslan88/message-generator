@@ -1,9 +1,9 @@
 # message-generator
 
-##About
+## About
 
 simple message generator
 
-##Usage
+## Usage
 
 just run the script
